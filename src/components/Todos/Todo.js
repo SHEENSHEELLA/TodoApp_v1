@@ -1,8 +1,10 @@
-
+import styles from './Todo.module.css'
 
 function Todo({ todo }) {
   return (
-    <h1>{todo}</h1>
+    <div className={styles.todo}>
+      <div className={styles.todoText}>{todo}</div>
+    </div>
   )
 }
 
