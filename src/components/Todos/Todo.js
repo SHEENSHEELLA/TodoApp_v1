@@ -1,8 +1,8 @@
 
 
-function Todo() {
+function Todo({ todo }) {
   return (
-    <div>This is Todo</div>
+    <h1>{todo}</h1>
   )
 }
 
