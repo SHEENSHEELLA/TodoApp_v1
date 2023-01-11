@@ -1,4 +1,7 @@
-# React Project for the React Course
+
+# Посмотреть проект => [Deploy Todo App](https://sheensheella.github.io/TodoApp_v1/)
+
+#### React Project version 1
 
 ## Available Scripts
 
